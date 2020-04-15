@@ -459,7 +459,7 @@ export default {
     },
 }
 </script>
-<style scoped>
-@import url('./player.css');
-@import url('./playermobile.css');
+<style src="./player.css" scoped>
+</style>
+<style src="./playermobile.css" scoped>
 </style>
